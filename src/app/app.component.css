@@ -1,0 +1,15 @@
+.text-holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.key {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.drawing-board {
+  word-wrap: break-word;
+}
